@@ -111,7 +111,7 @@ Repository: github.com/bravonokoth/OOP-Challenge-Group-56
 
 Submission Format: GitHub repository with code and output screenshot, or a zipped folder.
 
-Collaborators: [ramaphalatc@gmail, Bravon okoth, and Connie Wanjiru]
+Collaborators: [Charmaine Ramaphala, Bravon Okoth, and Connie Wanjiru]
 
 Screenshot: Included in screenshots/output_screenshot.png and displayed above.
 
